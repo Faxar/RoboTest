@@ -19,8 +19,8 @@ Open register page and fill data
     Select gender
     Input first and last name     Generate random name          Generate random name
     Autofill date of birth
-    Fill email field
-    Fill new password
+    Autofill email field
+    Autofill new password
 
 Succesfull registration appear
     page should contain    Register
